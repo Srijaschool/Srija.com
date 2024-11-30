@@ -1,0 +1,98 @@
+html,body{
+  margin: 0px;
+  padding: 0px;
+  background:#f5f5f5;
+  box-sizing: border-box;
+  }
+.container{
+  width: 380px;
+   margin: 0px auto;
+}
+ .news marquee{
+   font-size: 20px;
+ }
+ nav a{
+   font-size: 9px;
+   padding: 0px;
+   padding-right: 8px;
+ }
+ .logo{
+   width: 60px;
+   height: 50px;
+ }
+ .main-section{
+   width: 100%;
+   padding: 6px 0px 0px 0;
+  float: left;
+ }
+.Event{
+  width: 32%;
+  padding-right: 0px;
+  margin-right: 3px;
+ 
+  float: left;
+ }
+ .Event marquee{
+   height: 100px;
+ }
+ .Event ul li{
+   margin: 0px;
+   padding-bottom: 10px;
+   font-size: 9px;
+   float: none;
+ }
+ .event-date{
+   font-size: 9px;
+   float: left;
+   width: 30%;
+   padding: 0px 6px;
+  
+   margin: 0px;
+ }
+.heading{
+  font-size: 10px;
+  margin: 0px;
+}
+.margin{
+  margin-right: 0px;
+}
+.about-us div{
+  float: none;
+  width: 100%;
+}
+.about-us h4{
+  font-size: 20px;
+  
+}
+.about-us p{
+  line-height: 20px;
+  font-size: 10px;
+}
+.about-us img{
+  width: 100%;
+}
+#info h3{
+  font-size: 16px;
+}
+#info p{
+  font-size: 10px;
+}
+#Gallery img{
+  width: 40%;
+  height: 40%;
+  
+}
+#Gallery img:hover{
+  transform: scale(1.03);
+  height: 45%;
+  width: 45%;
+}
+#media img{
+  width: 20%;
+  height: 20%;
+}
+#media a h1{
+  font-size: 18px;
+  float: center;
+}
+   
